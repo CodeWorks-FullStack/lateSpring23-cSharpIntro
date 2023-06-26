@@ -1,0 +1,15 @@
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\bin\Debug\net6.0\cSharpIntro.exe
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\bin\Debug\net6.0\cSharpIntro.deps.json
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\bin\Debug\net6.0\cSharpIntro.runtimeconfig.json
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\bin\Debug\net6.0\cSharpIntro.dll
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\bin\Debug\net6.0\cSharpIntro.pdb
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.csproj.AssemblyReference.cache
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.AssemblyInfoInputs.cache
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.AssemblyInfo.cs
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.dll
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\refint\cSharpIntro.dll
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.pdb
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\cSharpIntro.genruntimeconfig.cache
+C:\Users\mick\codeworks\source\late-spring23\cSharpIntro\obj\Debug\net6.0\ref\cSharpIntro.dll
